@@ -1,0 +1,17 @@
+# Data files (not distributed with this repository)
+*.csv
+!01-kathmandu-site-response/data/vs_profiles.csv
+data/raw/
+
+# Generated outputs
+output/
+*/output/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
